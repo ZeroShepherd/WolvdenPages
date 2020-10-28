@@ -1,18 +1,6 @@
 body {
   background-color: Pink;
 }
-
-h1 {
-  background-color: Pink;
-}
-
-div {
-  background-color: Pink;
-}
-
-span {
-  background-color: Pink;
-}
- .breadcrumb-nav {
+.breadcrumb-nav {
     background: Blue !important;
 }
